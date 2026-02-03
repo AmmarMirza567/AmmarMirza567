@@ -68,14 +68,13 @@
 
 <p align="center">
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=AmmarMirza567&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=AmmarMirza567&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarMirza567&theme=tokyonight&border_radius=10"/>
+<img width="390" src="https://streak-stats.demolab.com?user=AmmarMirza567&theme=tokyonight&hide_border=true" />
 
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMirza567&layout=compact&theme=tokyonight&border_radius=10"/>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarMirza567&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
